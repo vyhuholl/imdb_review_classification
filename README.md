@@ -1,3 +1,4 @@
+Нейросеть, обученная на корпусе отзывов с IMDB и предсказывающая по тексту отзыва поставленный фильму рейтинг.
 # Data source:
 http://ai.stanford.edu/~amaas/data/sentiment/index.html
 # References:
